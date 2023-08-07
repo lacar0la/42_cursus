@@ -5,13 +5,13 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: lahernan <lahernan@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/05/25 19:15:19 by lahernan          #+#    #+#             */
-/*   Updated: 2023/05/25 19:15:21 by lahernan         ###   ########.fr       */
+/*   Created: 2023/05/02 16:42:38 by lahernan          #+#    #+#             */
+/*   Updated: 2023/05/02 16:42:39 by lahernan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "ft_printf.h"
-#include <unistd.h>
+#include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 static int	ft_count(int nb)
 {
